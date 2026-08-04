@@ -1,0 +1,6 @@
+court_key,court_name,region,court_type
+1,"Central London Crown Court",London,Crown
+2,"Manchester Crown Court","North West",Crown
+3,"Birmingham Family Court","West Midlands",Family
+4,"Leeds Tribunal Centre",Yorkshire,Tribunal
+5,"Bristol Civil Justice Centre","South West",Civil
